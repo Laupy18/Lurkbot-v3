@@ -1,0 +1,9 @@
+{
+  "laupy18": {
+    "password": "scrypt:32768:8:1$afEGawOhefs4WxKP$c456e5817d54a5c06c6b043bbeb75ede091c26fa3bf4cefd786f6670347d2efb53ebf94d8d0391c75029053d3fc6fa4e2fcb4897f154da56992d18cf48fa746f",
+    "channel": "",
+    "status": "active",
+    "admin": true,
+    "created_at": "2026-05-12T14:14:42.096645"
+  }
+}
