@@ -1,5 +1,5 @@
 [README.md](https://github.com/user-attachments/files/27695955/README.md)
-# 🤖 TwitchBot Panel v2 — Multi-utilisateurs
+# 🤖 Lurkbot Panel v3 — Multi-utilisateurs
 
 ## Fonctionnement
 1. Les VTubers s'inscrivent sur le panel web
